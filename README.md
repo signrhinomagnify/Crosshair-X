@@ -1,79 +1,53 @@
 🎯 Crosshair X
-🌟 Overview
 
-Crosshair X is a modern crosshair overlay utility created for FPS and competitive gamers who want complete control over their aiming experience. Customize every aspect of your crosshair and enjoy smooth performance without impacting gameplay.
+A lightweight and highly customizable crosshair overlay designed for FPS and competitive gamers.
 
 📥 Download
-🔗 Download Link
 
-Available in Releases
+Download Latest Version
 
-⚠️ Please read the README and setup instructions before launching the application.
+⬇️ Download Here
 
-🚀 Features
+⚠️ Important: Please read the setup instructions before launching the application.
 
-🎯 Fully customizable crosshair system
+✨ Features
+🎯 Fully customizable crosshair
+🎨 Adjustable size, color, opacity, and outline
+🖥️ Fullscreen & borderless window support
+✨ Animated and static crosshair presets
+⌨️ Hotkey controls for quick switching
+💾 Save and load custom configurations
+⚡ Lightweight performance with low resource usage
+🎮 Smooth rendering with minimal latency
+🧩 Modern UI with live preview editor
+🔄 Fast profile switching for different games
+🚀 Benefits
 
-🎨 Adjust color, size, opacity, thickness, and outlines
+✔️ Clean and easy-to-use interface
 
-🖥️ Works in fullscreen and borderless window modes
+✔️ Optimized for competitive gaming
 
-✨ Includes animated and static crosshair presets
+✔️ Works with most modern FPS titles
 
-⌨️ Hotkey support for quick toggling and preset switching
+✔️ No modification of game files
 
-💾 Save and load custom profiles instantly
+✔️ Stable and responsive performance
 
-⚡ Optimized for low CPU and RAM usage
+🎮 Recommended For
+First-Person Shooters
+Tactical Shooters
+Battle Royale Games
+Aim Trainers
+Competitive Multiplayer Titles
+🏷️ Keywords
 
-🎮 Smooth rendering with minimal input delay
-
-🧩 Modern interface with real-time preview editor
-
-🔄 Fast profile management for different games
-
-💡 Why Choose Crosshair X?
-
-✅ Lightweight and responsive
-
-✅ Easy-to-use customization tools
-
-✅ Suitable for all major FPS titles
-
-✅ Clean and modern design
-
-✅ No game file modifications
-
-✅ Stable performance during long gaming sessions
-
-🎮 Perfect For
-
-🔫 First-Person Shooters
-
-🏆 Competitive Multiplayer Games
-
-🎯 Aim Trainers
-
-⚔️ Tactical Shooters
-
-🌍 Battle Royale Titles
-
-For the best experience, borderless fullscreen mode is recommended.
-
-🏷️ Tags
-
-crosshair • crosshair overlay • fps utility • gaming tool • custom reticle • aim overlay • competitive gaming • overlay software • gamer utility • crosshair editor
+crosshair crosshair-overlay fps-tool gaming-utility custom-crosshair reticle-overlay aim-helper competitive-gaming
 
 📝 Notes
-
-📌 Designed specifically for competitive gaming environments
-
-📌 Works best with borderless fullscreen applications
-
-📌 Presets can be created, saved, and switched instantly
-
-📌 Does not inject into or modify game files
-
+Best experience in Borderless Fullscreen mode
+Presets can be saved and loaded instantly
+Designed specifically for competitive gameplay
+Does not inject into or alter game files
 ⚠️ Disclaimer
 
-Crosshair X is an independent overlay application intended for visual customization purposes only. The software does not alter game files, game memory, or gameplay mechanics.
+Crosshair X is a standalone overlay application intended for visual customization purposes only. It does not modify game files, memory, or gameplay mechanics.
